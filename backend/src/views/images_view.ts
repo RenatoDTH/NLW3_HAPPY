@@ -4,7 +4,7 @@ export default {
   render(image: Image) {
     return {
       id: image.id,
-      url: `http://localhost:3333/uploads/${image.path}`,
+      url: `http://192.168.1.31:3333/uploads/${image.path}`,
     };
   },
 
@@ -12,3 +12,5 @@ export default {
     return images.map(image => this.render(image));
   },
 };
+
+// ip da máquina para funcionar com o dispositivo físico no react-native.
