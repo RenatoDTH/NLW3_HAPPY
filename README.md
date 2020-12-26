@@ -1,6 +1,6 @@
 # NLW3_HAPPY
 Projeto de orfanatos Happy trazido pela semana NLW da RocketSeat.
-Este projeto é realizado com nodeJS, React e ReactNative, utilizando Typescript e no Expo, no ReactNative.
+Este projeto é realizado com nodeJS, React e ReactNative, utilizando Typescript e o Expo para o ReactNative.
 
 ## Introdução
 
